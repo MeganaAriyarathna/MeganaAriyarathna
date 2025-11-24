@@ -36,6 +36,7 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=MeganaAriyarathna&theme=nightowl&radius=10" alt="MeganaAriyarathna's Activity Graph" />
 </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MeganaAriyarathna&layout=compact&theme=algolia" alt="MeganaAriyarathna" /></a>
 
 
 ## 🛠️ Languages & Tools
